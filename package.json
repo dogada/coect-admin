@@ -1,6 +1,6 @@
 {
   "name": "coect-admin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Admin area for coect web-sites.",
   "main": "server/index.js",
   "browser": "client/index.js",
