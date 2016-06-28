@@ -14,8 +14,8 @@
   },
   "browserify-shim": {},
   "scripts": {
-    "test": "npm run test:client",
-    "lint": "jshint server/ client/",
+    "build": "pwd",
+    "lint": "pwd",
     "validate": "npm ls",
     "check": "npm run lint && npm run test"
   },
